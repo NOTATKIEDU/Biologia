@@ -1,0 +1,66 @@
+body {
+	background: rgb(196, 106, 106);
+	margin-left: 0;
+}
+
+h1 {
+	text-align: center;
+	font-size: 24px;
+}
+
+.head {
+	font-size: 18px;
+	font-weight: bold;
+	text-align: justify;
+	margin-top: 8px;
+}
+
+span.info {
+	font-size: 14px;
+	font-weight: 500;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.underline {
+	text-decoration: underline;
+}
+
+.bigger {
+	font-size: 17px;
+}
+
+.biggest {
+	font-size: 24px;
+}
+
+ul {
+	list-style-type: none;
+	font-size: 15px;
+}
+
+ul li:before {
+	content: "- ";
+	margin-left: -10px;
+}
+
+#lancuch {
+	font-size: 20px;
+	margin: 0;
+}
+
+p#legenda {
+	margin: 1px 0;
+	font-size: 15px;
+}
+
+#gen {
+	font-size: 16px;
+	margin: 1px 0;
+}
+
+.marginbtm {
+	margin-bottom: 0;
+}
